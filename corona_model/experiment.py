@@ -12,7 +12,7 @@ only_medium = {"SC_WP":{
             ],
             "ClosingBuildings": [
             ("ClosedBuildingOpenHub", []),
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75 ##################
             ("Exception_SemiClosedBuilding", []),
             ("Exception_GoingHomeP", 0.75),
@@ -38,7 +38,7 @@ new_check= {
             ],
             "ClosingBuildings": [
             ("ClosedBuildingOpenHub", []),
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75 ##################
             ("Exception_SemiClosedBuilding", []),
             ("Exception_GoingHomeP", 0.75),
@@ -61,7 +61,7 @@ new_check= {
             ],
             "ClosingBuildings": [
             ("ClosedBuildingOpenHub", []),
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75 ##################
             ("Exception_SemiClosedBuilding", []),
             ("Exception_GoingHomeP", 0.75),
@@ -84,7 +84,7 @@ new_check= {
             ],
             "ClosingBuildings": [
             ("ClosedBuildingOpenHub", []),
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75 ##################
             ("Exception_SemiClosedBuilding", []),
             ("Exception_GoingHomeP", 0.75),
@@ -107,7 +107,7 @@ new_check= {
             ],
             "ClosingBuildings": [
             ("ClosedBuildingOpenHub", []),
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75 ##################
             ("Exception_SemiClosedBuilding", []),
             ("Exception_GoingHomeP", 0.75),
@@ -130,7 +130,7 @@ new_check= {
             ],
             "ClosingBuildings": [
             ("ClosedBuildingOpenHub", []),
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75 ##################
             ("Exception_SemiClosedBuilding", []),
             ("Exception_GoingHomeP", 0.75),
@@ -153,7 +153,7 @@ new_check= {
             ],
             "ClosingBuildings": [
             ("ClosedBuildingOpenHub", []),
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75 ##################
             ("Exception_SemiClosedBuilding", []),
             ("Exception_GoingHomeP", 0.75),
@@ -176,7 +176,7 @@ new_check= {
             ],
             "ClosingBuildings": [
             ("ClosedBuildingOpenHub", []),
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75 ##################
             ("Exception_SemiClosedBuilding", []),
             ("Exception_GoingHomeP", 0.75),
@@ -199,7 +199,7 @@ new_check= {
         ],
         "ClosingBuildings": [
             ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75
             ("Exception_SemiClosedBuilding", ["dining", "faculty_dining_room"]), # replace these entrys 50/50
             ("Exception_GoingHomeP", 0.75),
@@ -230,7 +230,7 @@ new_check= {
         ],
         "ClosingBuildings": [
             ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75
             ("Exception_SemiClosedBuilding", ["dining", "faculty_dining_room"]), # replace these entrys 50/50
             ("Exception_GoingHomeP", 0.75),
@@ -261,7 +261,7 @@ new_check= {
         ],
         "ClosingBuildings": [
             ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75
             ("Exception_SemiClosedBuilding", ["dining", "faculty_dining_room"]), # replace these entrys 50/50
             ("Exception_GoingHomeP", 0.75),
@@ -292,7 +292,7 @@ new_check= {
         ],
         "ClosingBuildings": [
             ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75
             ("Exception_SemiClosedBuilding", ["dining", "faculty_dining_room"]), # replace these entrys 50/50
             ("Exception_GoingHomeP", 0.75),
@@ -323,7 +323,7 @@ new_check= {
         ],
         "ClosingBuildings": [
             ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75
             ("Exception_SemiClosedBuilding", ["dining", "faculty_dining_room"]), # replace these entrys 50/50
             ("Exception_GoingHomeP", 0.75),
@@ -354,7 +354,7 @@ new_check= {
         ],
         "ClosingBuildings": [
             ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75
             ("Exception_SemiClosedBuilding", ["dining", "faculty_dining_room"]), # replace these entrys 50/50
             ("Exception_GoingHomeP", 0.75),
@@ -385,7 +385,7 @@ new_check= {
         ],
         "ClosingBuildings": [
             ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75
             ("Exception_SemiClosedBuilding", ["dining", "faculty_dining_room"]), # replace these entrys 50/50
             ("Exception_GoingHomeP", 0.75),
@@ -479,7 +479,7 @@ medium_student_vary_policy = {
             ],
             "ClosingBuildings": [
             ("ClosedBuildingOpenHub", []),
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75 ##################
             ("Exception_SemiClosedBuilding", []),
             ("Exception_GoingHomeP", 0.75),
@@ -502,7 +502,7 @@ medium_student_vary_policy = {
             ],
             "ClosingBuildings": [
                 ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0
-                ("ClosedBuilding_ByType", ["gym", "library"]),
+                ("ClosedBuilding_ByType", ["social", "library"]),
                 ("GoingHomeP", 0.75), # h = 0.75
                 ("Exception_SemiClosedBuilding", ["dining", "faculty_dining_room"]), # replace these entrys 50/50
                 ("Exception_GoingHomeP", 0.75),
@@ -743,7 +743,7 @@ low_med = {
         ],
         "ClosingBuildings": [
         ("ClosedBuildingOpenHub", []),
-        ("ClosedBuilding_ByType", ["gym", "library"]),
+        ("ClosedBuilding_ByType", ["social", "library"]),
         ("GoingHomeP", 0.5), # h = 0.5
         ("Exception_SemiClosedBuilding", []),
         ("Exception_GoingHomeP", 0.5),
@@ -767,7 +767,7 @@ low_med = {
         ],
         "ClosingBuildings": [
             ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0####################################
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.5), # h = 0.5
             ("Exception_SemiClosedBuilding",["dining", "faculty_dining_room"]), # replace these entrys 50/50###############
             ("Exception_GoingHomeP", 0.5),
@@ -831,7 +831,7 @@ low_med = {
         ],
         "ClosingBuildings": [
         ("ClosedBuildingOpenHub", []),
-        ("ClosedBuilding_ByType", ["gym", "library"]),
+        ("ClosedBuilding_ByType", ["social", "library"]),
         ("GoingHomeP", 0.75), # h = 0.75 ##################
         ("Exception_SemiClosedBuilding", []),
         ("Exception_GoingHomeP", 0.75),
@@ -854,7 +854,7 @@ low_med = {
         ],
         "ClosingBuildings": [
             ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75
             ("Exception_SemiClosedBuilding", ["dining", "faculty_dining_room"]), # replace these entrys 50/50
             ("Exception_GoingHomeP", 0.75),
@@ -1223,7 +1223,7 @@ original_3x3 = {
         ],
         "ClosingBuildings": [
         ("ClosedBuildingOpenHub", []),
-        ("ClosedBuilding_ByType", ["gym", "library"]),
+        ("ClosedBuilding_ByType", ["social", "library"]),
         ("GoingHomeP", 0.5), # h = 0.5
         ("Exception_SemiClosedBuilding", []),
         ("Exception_GoingHomeP", 0.5),
@@ -1247,7 +1247,7 @@ original_3x3 = {
         ],
         "ClosingBuildings": [
             ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0####################################
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.5), # h = 0.5
             ("Exception_SemiClosedBuilding",["dining", "faculty_dining_room"]), # replace these entrys 50/50###############
             ("Exception_GoingHomeP", 0.5),
@@ -1311,7 +1311,7 @@ original_3x3 = {
         ],
         "ClosingBuildings": [
         ("ClosedBuildingOpenHub", []),
-        ("ClosedBuilding_ByType", ["gym", "library"]),
+        ("ClosedBuilding_ByType", ["social", "library"]),
         ("GoingHomeP", 0.75), # h = 0.75 ##################
         ("Exception_SemiClosedBuilding", []),
         ("Exception_GoingHomeP", 0.75),
@@ -1334,7 +1334,7 @@ original_3x3 = {
         ],
         "ClosingBuildings": [
             ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 0.75), # h = 0.75
             ("Exception_SemiClosedBuilding", ["dining", "faculty_dining_room"]), # replace these entrys 50/50
             ("Exception_GoingHomeP", 0.75),
@@ -1398,7 +1398,7 @@ original_3x3 = {
         ],
         "ClosingBuildings": [
         ("ClosedBuildingOpenHub", []),
-        ("ClosedBuilding_ByType", ["gym", "library"]),
+        ("ClosedBuilding_ByType", ["social", "library"]),
         ("GoingHomeP", 1), # h = 1
         ("Exception_SemiClosedBuilding", []),
         ("Exception_GoingHomeP", 1),
@@ -1422,7 +1422,7 @@ original_3x3 = {
         ],
         "ClosingBuildings": [
             ("ClosedBuildingOpenHub", ["dining"]), # ding stays open, but leaf Kv = 0
-            ("ClosedBuilding_ByType", ["gym", "library"]),
+            ("ClosedBuilding_ByType", ["social", "library"]),
             ("GoingHomeP", 1), # h = 1
             ("Exception_SemiClosedBuilding", ["dining", "faculty_dining_room"]), # replace these entrys 50/50
             ("Exception_GoingHomeP", 1),
